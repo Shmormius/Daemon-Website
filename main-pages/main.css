@@ -4,6 +4,7 @@
   --color-terciary: #49375C;
   --color-quadiary: #7600F4;
   --color-quintiary: #2E2933;
+  --color-house: #6e90d8;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -20,6 +21,10 @@ body {
   background-color: var(--color-terciary);
   margin: 0;
   padding: 0;
+}
+
+.house {
+  color: var(--color-house);
 }
 
 /*header*/

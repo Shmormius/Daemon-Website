@@ -40,7 +40,7 @@
         "genre": "Action role-play"
     },
     {
-        "id": "",
+        "id": "feb",
         "cover": "game-journal-img/metal-gear-solid-v-the-phantom-pain-cover-i26603.jpg",
         "title": "Metal Gear Solid V: The Phantom Pain",
         "studio": "Kojima Productions",
@@ -80,7 +80,7 @@
         "genre": "Survival sandbox"
     },
     {
-        "id": "",
+        "id": "mar",
         "cover": "game-journal-img/noita.jpg",
         "title": "Noita",
         "studio": "Nolla games",
@@ -88,5 +88,15 @@
         "review": "Noita is so good. Very difficult yet rewarding. It begs for you to try and exploit the games mechanics to your advantage. Super fun.",
         "finished": "No",
         "genre": "Roguelite"
+    },
+    {
+        "id": "",
+        "cover": "game-journal-img/FTL.png",
+        "title": "FTL",
+        "studio": "Subset Games",
+        "rating": 4,
+        "review": "Good, fun, simple yet complicated. I come back to this one every once in a while.",
+        "finished": "No",
+        "genre": "Roguelike"
     }
 ]

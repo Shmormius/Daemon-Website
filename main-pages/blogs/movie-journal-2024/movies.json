@@ -31,5 +31,49 @@
         "duration": 90,
         "genre": "Apocalyptic science fiction",
         "dateWatched": "3/17/2024"
+    },
+    {
+        "id": "",
+        "cover": "movie-journal-img/eva1.jpg",
+        "title": "Evangelion: 1.0 <br>You Are (Not) Alone",
+        "director": "Anno and <br>Kazuya Tsurumaki",
+        "rating": 2,
+        "review": "Uh...",
+        "duration": 98,
+        "genre": "Science fiction, Action",
+        "dateWatched": "3/23/2024"
+    },
+    {
+        "id": "",
+        "cover": "movie-journal-img/eva2.jpg",
+        "title": "EVANGELION:2.22 <br>YOU CAN (NOT) ADVANCE.",
+        "director": "Anno and <br>Kazuya Tsurumaki",
+        "rating": 2.5,
+        "review": "Has more merit than Evangelion 1.0, animation is good but lacks the intrigue of the original. I am on a bit of a movie marathon... The previous movie I finished at midnight and here I am again watching more.",
+        "duration": 108,
+        "genre": "Science fiction, Action",
+        "dateWatched": "3/23/2024"
+    },
+    {
+        "id": "",
+        "cover": "movie-journal-img/eva3.jpg",
+        "title": "EVANGELION:3.33 <br>YOU CAN (NOT) REDO.",
+        "director": "Anno and <br>Kazuya Tsurumaki",
+        "rating": 3,
+        "review": "The visuals and artistic direction were very impressive. While this movie was another step up I feel like it lacked a lot of things for me. That being said I enjoyed how drastically different things are from the orginal show and movie.",
+        "duration": 96,
+        "genre": "Apocalyptic science fiction",
+        "dateWatched": "3/23/2024"
+    },
+    {
+        "id": "",
+        "cover": "movie-journal-img/eva3+1.jpg",
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "director": "Anno and <br>Kazuya Tsurumaki",
+        "rating": 4.5,
+        "review": "A return to form. I was very impressed with the quality and polish in this one. Not perfect but it made statements and was the culmination of mountains of talent and care. Very emotional and incredibly reserved portions of this movie. Easily one of the best Evangelion related pieces of media. It was nice seeing a happy ending for a change too. This series is very bleak, one of the most notable things about the orignial 'End of Evangelion' movie was how bleak it was. Its impressive how this movie mananged to keep the heaviness without sacrificing a feel-good ending ",
+        "duration": 155,
+        "genre": "Science fiction, Action",
+        "dateWatched": "3/24/2024"
     }
 ]
