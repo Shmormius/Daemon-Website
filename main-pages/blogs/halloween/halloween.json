@@ -1,0 +1,143 @@
+[
+    {
+        "id": "",
+        "cover": "movie-covers/alien.jpg",
+        "title": "Alien",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "8/29/2024"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/terrifier.jpg",
+        "title": "Terrifier",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/trt.jpg",
+        "title": "Trick 'r Treat",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/tusk.jpg",
+        "title": "Tusk",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/longlegs.jpg",
+        "title": "Longlegs",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/hellraiser.jpg",
+        "title": "Hellraiser",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/quiet.jpg",
+        "title": "A Quiet Place: Day One",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    }
+    ,
+    {
+        "id": "",
+        "cover": "movie-covers/child.jpg",
+        "title": "Child's Play",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/cuckoo.jpg",
+        "title": "Cuckoo",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/humancent.jpg",
+        "title": "Human Centipede",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/evil.jpg",
+        "title": "The Evil Dead",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/candyman.jpg",
+        "title": "Candyman",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/psycho.jpg",
+        "title": "Psycho",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    },
+    {
+        "id": "",
+        "cover": "movie-covers/rosebaby.jpg",
+        "title": "Rosemanys Baby",
+        "director": "",
+        "ratingscary": 5,
+        "ratingenjoyment": 5,
+        "ratinghalloween": 5,
+        "dateWatched": "Not yet watched"
+    }
+]

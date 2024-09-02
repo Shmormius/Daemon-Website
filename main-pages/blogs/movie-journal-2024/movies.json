@@ -174,5 +174,16 @@
         "duration": 105,
         "genre": "Action, Triller, Anime",
         "dateWatched": "7/19/2024"
+    },
+    {
+        "id": "aug",
+        "cover": "../../blogs/halloween/movie-covers/alien.jpg",
+        "title": "Alien",
+        "director": "<br>Ridley Scott",
+        "rating": 4.5,
+        "review": "",
+        "duration": 117,
+        "genre": "Sci-fi, Horror",
+        "dateWatched": "8/29/2024"
     }
 ]
