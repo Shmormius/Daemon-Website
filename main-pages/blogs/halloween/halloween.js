@@ -8,6 +8,15 @@ document.addEventListener("DOMContentLoaded", function() {
                 const movieDiv = document.createElement("div");
                 movieDiv.classList.add("movie");
 
+                // Set the background image using the movie ID
+                movieDiv.style.background = `linear-gradient(
+                    to right,
+                    rgb(0, 0, 0) 30%,
+                    rgba(0, 0, 0, 0.5) 60%,
+                    rgba(255, 0, 0, 0) 100%,
+                    rgba(255, 0, 0, 0)), url('movie-images/${movie.id}')`;
+                movieDiv.style.backgroundSize = 'cover';
+
                 // Create HTML structure for each movie entry
                 movieDiv.innerHTML = `
                     <div class="left-movie">
@@ -21,7 +30,12 @@ document.addEventListener("DOMContentLoaded", function() {
                             </div>
                             <div class="star-rating">
                                 ${getStarRating(movie.ratingscary)}
+                            </div>
+                            <div class="star-rating">
                                 ${getStarRating(movie.ratingenjoyment)}
+                            </div>
+                            <div class="star-rating">
+
                                 ${getStarRating(movie.ratinghalloween)}
                             </div>
                             <div class="Date-watched">
